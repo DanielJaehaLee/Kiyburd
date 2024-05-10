@@ -1,0 +1,195 @@
+[
+  [
+    {
+      "a": 7
+    },
+    "Tab",
+    {
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\n1\nQ\n\n\n\n\n\nㅂ\nq\n!",
+    "\n2\nW\n\n\n\n\n\nㅂ\nw\n@",
+    "\n3\nF\n\n\n\n\n\nㄷ\nf\n#",
+    "\n4\nP\n\n\n\n\n\nㄱ\np\n%",
+    "\n5\nG\n\n\n\n\n\nㅅ\ng\n%",
+    {
+      "x": 0.5
+    },
+    "\n\nJ\n\n\n\n\n\nㅛ\nj",
+    "\n\nL\n\n\n\n\n\nㅕ\nl",
+    "\n\nU\n\n\n\n\n\nㅑ\nu",
+    "\n\nY\n\n\n\n\n\nㅐ\ny",
+    "\n\n:\n\n\n\n\n\nㅔ\n;",
+    {
+      "fa": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\nesc\n\n\n\n\n\n\n\nback"
+  ],
+  [
+    {
+      "a": 7
+    },
+    "Ctrl",
+    {
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\n6\nA\n\n\n\n\n\nㅁ\na\n^",
+    "\n7\nR\n\n\n\n\n\nㄴ\nr\n&",
+    "\n8\nS\n\n\n\n\n\nㅇ\ns\n*",
+    "\n9\nT\n\n\n\n\n\nㄹ\nt\n(",
+    "\n0\nD\n\n\n\n\n\nㅎ\nd\n)",
+    {
+      "x": 0.5,
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "f1\n←\nH\nhome\n\n\n\n\nㅗ\nh",
+    "f2\n↓\nN\ninsert\n\n\n\n\nㅓ\nn",
+    "f3\n↑\nE\ndelete\n\n\n\n\nㅏ\ne",
+    "f4\n→\nI\nend\n\n\n\n\nㅣ\ni",
+    "f5\n\nO\n\n\n\n\n\no\no",
+    "f6\n\n\"\n\n\n\n\n\n\n'"
+  ],
+  [
+    {
+      "a": 7,
+      "f": 3
+    },
+    "Shift",
+    {
+      "a": 4,
+      "fa": [
+        1,
+        2,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ]
+    },
+    "\n`\nZ\n\n\n\n\n\nㅋ\nz\n~",
+    "\n_\nX\n\n\n\n\n\nㅌ\nx\n-",
+    {
+      "fa": [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "\n=\nC\n\n\n\n\n\nㅊ\nc\n+",
+    "\n[\nV\n\n\n\n\n\nㅍ\nv\n{",
+    "\n]\nB\n\n\n\n\n\nㅠ\nb\n}",
+    {
+      "x": 0.5
+    },
+    "f7\n\nK\n\n\n\n\n\nㅜ\nk",
+    "f8\n\nM\n\n\n\n\n\nㅡ\nm",
+    "f9\n\n<\n\n\n\n\n\n\n,",
+    "f10\n\n>\n\n\n\n\n\n\n.",
+    "f11\n\n?\n\n\n\n\n\n\n/",
+    "f12\n\n|\n\n\n\n\n\n\n\\"
+  ],
+  [
+    {
+      "a": 7,
+      "f": 3
+    },
+    "alt",
+    {
+      "x": 2,
+      "f": 3
+    },
+    "win",
+    {
+      "a": 4,
+      "f": 3
+    },
+    "1\n\n\n\n\n\n\n\n\nfn",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "space",
+    {
+      "x": 0.5,
+      "a": 4,
+      "f": 3
+    },
+    "\n2\n\n\n\n\n\n\n\nfn",
+    {
+      "f": 3
+    },
+    "\n\n\n3\n\n\n\n\n\nfn",
+    {
+      "a": 7,
+      "f": 3
+    },
+    "alt",
+    {
+      "x": 2,
+      "f": 3
+    },
+    "enter"
+  ]
+]
