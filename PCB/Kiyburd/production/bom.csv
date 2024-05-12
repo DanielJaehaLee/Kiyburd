@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S22, S23, S24, S3, S4, S5, S6, S7, S8, S9",SW_Cherry_MX_1.00u_PCB_reversible,22,Keyswitch,
+U1,Raspberry_Pi_Pico_reversible,1,Raspberry_Pi_Pico,
+U2,PJ-320A_reversible,1,TRRS,
