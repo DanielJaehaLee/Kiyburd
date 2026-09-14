@@ -5,8 +5,8 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [DanielJaehaLee](https://github.com/DanielJaehaLee)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported: Raspberry Pi Pico
+* Hardware Availability: 
 
 Make example for this keyboard (after setting up your build environment):
 
