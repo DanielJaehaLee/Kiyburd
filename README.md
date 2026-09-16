@@ -2,7 +2,7 @@
 
 **Split 40% ortholinear diode-less mechanical keyboard**
 
-Kiyburd is a hand-designed split keyboard built around a 44-key ortholinear grid, direct-pin wiring (no diode matrix), and a pair of Raspberry Pi Picos talking over TRRS. The goal is a compact, stabilizer-free board that is easier to wire and firmware-tune than a conventional matrix keyboard, without giving up QMK features.
+Kiyburd is a split keyboard built around a 44-key ortholinear grid, direct-pin wiring (no diode matrix), and a pair of Raspberry Pi Picos talking over TRRS. The goal is a compact, stabilizer-free board that is easier to wire and firmware-tune than a conventional matrix keyboard, without giving up QMK features.
 
 ![Kiyburd layout](keyboard%20layout/keyboard-layout.png)
 
