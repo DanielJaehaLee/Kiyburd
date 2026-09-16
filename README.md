@@ -14,7 +14,7 @@ Kiyburd is a split keyboard built around a 44-key ortholinear grid, direct-pin w
 | **MCU** | Raspberry Pi Pico (RP2040) × 2 |
 | **Inter-half link** | TRRS (PJ-320A) · full-duplex USART |
 | **Firmware** | [QMK](https://qmk.fm/) |
-| **PCB** | Reversible KiCad design (same board for left and right) |
+| **PCB** | Reversible |
 | **Status** | PCB designed and ordered · QMK port working · case and Vial still open |
 
 ---
